@@ -87,6 +87,17 @@ color: white;
 .continue-btn button:hover{
     background-color:hsl(241, 81%, 54%);
 }
+.reference{
+    text-align:center ;
+    font-size: 10px;
+    color:  black;
+    margin-top: auto;
+  
+
+}
+.reference a{
+    color:  hsl(5, 85%, 63%);
+}
 
 @media only screen and (max-width:520px){
     .result-container{
