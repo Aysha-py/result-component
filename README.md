@@ -10,3 +10,4 @@ The project's Features.
 
 Below is a screenshot of the interface.
 
+![image](https://github.com/Aysha-py/result-component/assets/64032658/c4376b55-c691-42c7-a51f-6eeef22df7c3)
